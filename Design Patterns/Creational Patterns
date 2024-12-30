@@ -1,0 +1,13 @@
+
+Factory Pattern
+
+- The Factory Pattern is a design pattern used to create objects without specifying their exact class. 
+Instead of creating objects directly using new, you let a factory (a special method or class) handle the creation for you.
+
+
+Abstract Factory Pattern 
+
+- The Abstract Factory Pattern is an advanced version of the Factory Pattern.
+It provides an interface for creating families of related or dependent objects without specifying their exact classes.
+
+
