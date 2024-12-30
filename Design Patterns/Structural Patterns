@@ -1,0 +1,4 @@
+
+Adapter Pattern
+- The Adapter Pattern is a design pattern used to make two incompatible interfaces work together.
+It acts as a bridge between two different classes, allowing them to communicate without changing their code.
