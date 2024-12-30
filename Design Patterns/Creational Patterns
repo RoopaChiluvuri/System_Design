@@ -11,3 +11,10 @@ Abstract Factory Pattern
 It provides an interface for creating families of related or dependent objects without specifying their exact classes.
 
 
+Builder Pattern
+
+- The Builder Pattern is a design pattern used to create complex objects step by step.
+Instead of creating the object in a single step (like a constructor), the Builder Pattern lets you construct
+an object by calling methods in a sequence.
+
+
