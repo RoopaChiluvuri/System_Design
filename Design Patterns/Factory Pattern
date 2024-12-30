@@ -1,1 +1,3 @@
 
+The Factory Pattern is a design pattern used to create objects without specifying their exact class. 
+Instead of creating objects directly using new, you let a factory (a special method or class) handle the creation for you.
