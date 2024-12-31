@@ -13,3 +13,8 @@ It’s commonly used to:
   - Decouple the sender (who requests the action) from the receiver (who performs the action).
   - Support features like undo/redo, queuing, or logging requests.
 
+Strategy Pattern
+- The Strategy Pattern is a behavioral design pattern that lets you define a family of algorithms (or behaviors),
+put them in separate classes, and make their objects interchangeable at runtime.
+It allows you to change the behavior of an object dynamically without altering its code.
+
