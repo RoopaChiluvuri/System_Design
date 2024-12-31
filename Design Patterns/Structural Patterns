@@ -13,3 +13,9 @@ Decorator Pattern
 - The Decorator Pattern is a structural design pattern that allows you to add new behavior or responsibilities to an object dynamically,
 without changing its code or the code of other objects.
 
+Facade Pattern 
+- The Facade Pattern is a structural design pattern that provides a simplified interface to a larger, more complex system.
+Instead of interacting directly with multiple components, the client interacts with a single Facade class that hides the complexity
+of the subsystem.
+
+
