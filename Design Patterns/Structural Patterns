@@ -2,3 +2,10 @@
 Adapter Pattern
 - The Adapter Pattern is a design pattern used to make two incompatible interfaces work together.
 It acts as a bridge between two different classes, allowing them to communicate without changing their code.
+
+Composite Pattern
+- The Composite Pattern is a structural design pattern that allows you to treat a group of objects and a single object in the same way.
+It is used when you want to represent a hierarchy of objects where:
+
+Some objects are individual items (leaf nodes).
+Others are composed of multiple items (composite nodes).
