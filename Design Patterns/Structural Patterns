@@ -6,6 +6,10 @@ It acts as a bridge between two different classes, allowing them to communicate 
 Composite Pattern
 - The Composite Pattern is a structural design pattern that allows you to treat a group of objects and a single object in the same way.
 It is used when you want to represent a hierarchy of objects where:
+   - Some objects are individual items (leaf nodes).
+   - Others are composed of multiple items (composite nodes).
 
-Some objects are individual items (leaf nodes).
-Others are composed of multiple items (composite nodes).
+Decorator Pattern
+- The Decorator Pattern is a structural design pattern that allows you to add new behavior or responsibilities to an object dynamically,
+without changing its code or the code of other objects.
+
