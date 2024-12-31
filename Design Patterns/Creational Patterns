@@ -1,18 +1,20 @@
+Singleton Pattern
+A singleton pattern is a way of designing a class so that:
+    -> Only one object (instance) of the class is created for the entire program.
+    -> Everyone in the program uses that same object.
+
+Think of it like:
+A single TV remote that everyone in the room uses to control the TV. You don't want multiple remotes causing confusion!
 
 Factory Pattern
-
 - The Factory Pattern is a design pattern used to create objects without specifying their exact class. 
 Instead of creating objects directly using new, you let a factory (a special method or class) handle the creation for you.
 
-
 Abstract Factory Pattern 
-
 - The Abstract Factory Pattern is an advanced version of the Factory Pattern.
 It provides an interface for creating families of related or dependent objects without specifying their exact classes.
 
-
 Builder Pattern
-
 - The Builder Pattern is a design pattern used to create complex objects step by step.
 Instead of creating the object in a single step (like a constructor), the Builder Pattern lets you construct
 an object by calling methods in a sequence.
